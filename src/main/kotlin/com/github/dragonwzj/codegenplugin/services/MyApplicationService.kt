@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dragonwzj.codegenplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dragonwzj.codegenplugin.MyBundle
 
 class MyApplicationService {
 

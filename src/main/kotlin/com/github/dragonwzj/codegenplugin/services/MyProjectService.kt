@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.dragonwzj.codegenplugin.services
 
+import com.github.dragonwzj.codegenplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
